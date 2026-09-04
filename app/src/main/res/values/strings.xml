@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WB Land Utility</string>
+    <string name="refresh">Refresh</string>
+    <string name="generate_report">Generate A4 Report</string>
+    <string name="report_preparing">Preparing your A4 report…</string>
+    <string name="report_no_content">No page text was available when the report was generated.</string>
+</resources>

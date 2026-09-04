@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WBLandUtility" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/button_primary</item>
+        <item name="android:navigationBarColor">@color/action_bar</item>
+        <item name="android:statusBarColor">@color/action_bar</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+
+    <style name="Widget.WBLandUtility.ActionButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/button_text</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:paddingHorizontal">8dp</item>
+        <item name="cornerRadius">8dp</item>
+        <item name="backgroundTint">@color/button_primary</item>
+    </style>
+</resources>

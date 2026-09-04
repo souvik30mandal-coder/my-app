@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_bar">#172B25</color>
+    <color name="button_primary">#E8B86A</color>
+    <color name="button_text">#172B25</color>
+    <color name="splash_background">#F5F2EB</color>
+</resources>
